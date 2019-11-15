@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 3532,
+  "expoServerNgrokUrl": "https://5e-tgi.anonymous.learncool.exp.direct",
+  "packagerNgrokUrl": "https://packager.5e-tgi.anonymous.learncool.exp.direct",
+  "ngrokPid": 3748,
+  "webpackServerPort": 19006
+}
